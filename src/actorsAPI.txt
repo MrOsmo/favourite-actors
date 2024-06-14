@@ -1,0 +1,280 @@
+ name: "Rustem Omarov",
+      mainImg: "https://avatars.mds.yandex.net/get-kinopoisk-image/4486454/6f5adbae-b3c2-4ed3-a73a-77db921cd626/280x420",
+      subImg1: "https://avatars.dzeninfra.ru/get-zen_doc/5232141/pub_632216aa261b5160b2711521_63221934c1cd606ca9fc7633/scale_1200",
+      subImg2: "https://s3.stc.all.kpcdn.net/putevoditel/serialy/wp-content/uploads/2023/05/Screenshot-2023-05-29-at-16-17-26-CAKE-Ofitsialnyi-trei-ler-Kto-ne-riskuet-tot-chinovnikom-ne-rabotaet-1024x576.jpg",
+      subImg3: "https://s15.stc.all.kpcdn.net/putevoditel/serialy/wp-content/uploads/2023/05/Screenshot-2023-05-29-at-16-13-34-Poka-rai-onnym-akimom-sizhu-zhasap-zhasap-alu-kerek-SAKE-1-seriya-1024x576.jpg",
+      subImg4: "https://avatars.mds.yandex.net/get-entity_search/2310591/853769818/SUx150_2x",
+      career: ["Scenario", "Actor", "Producer", "Director"],
+      birthday: "November 9, 1985",
+      birthPlace: "Taldykorgan, USSR",
+      genre: ["Comedy", "Drama", "Crime"],
+      movies: ["Патруль", "Пленники", "Саке", "Мошенники", "Ангел-хранитель"],
+      rating: "5.0",
+      ratingStars: "⭐⭐⭐⭐⭐"
+
+
+
+name: "Elizabeth Olsen",
+      mainImg: "https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/99a517a4-d6e9-4f4f-bc77-dd416da95ff5/280x420",
+      subImg1: "https://i.pinimg.com/originals/2d/cc/a2/2dcca24b23cdd75f543e67c993e9a762.jpg",
+      subImg2: "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/01/godzilla-elizabeth-olsen-social.jpg",
+      subImg3: "https://comicvine.gamespot.com/a/uploads/original/11144/111444934/8535355-16a7ac53-82f9-4479-9100-19e2cf56beff.jpeg",
+      subImg4: "https://comicvine.gamespot.com/a/uploads/original/11144/111444934/8568698-49290d58-2156-459e-a61c-fded3fe7a253.gif",
+      career: ["Actress", "Producer", ],
+      birthday: "February 16, 1989",
+      birthPlace: "Sherman Oaks, California, USA",
+      genre: ["Fantasy", "Drama", "Action"],
+      movies: ["Doctor Strange in the Multiverse of Madness", "Avengers: Endgame", "Godzilla", "Avengers: Infinity War", "Avengers: Age of Ultron", "The First Avenger: Civil War"],
+      rating: "5.0",
+      ratingStars: "⭐⭐⭐⭐⭐"    
+
+
+  name: "Danielle Panabaker",
+      mainImg: "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/d7221489-94a6-4542-9c5f-dfda7b0f8062/280x420",
+      subImg1: "https://variety.com/wp-content/uploads/2017/05/the-flash-3x20.jpg?w=1000",
+      subImg2: "https://i.ytimg.com/vi/WqwHC-Hc34s/maxresdefault.jpg",
+      subImg3: "https://geeksofcolor.co/wp-content/uploads/2017/07/danielle-panabaker-sky-high-eef78.jpg",
+      subImg4: "https://i.pinimg.com/originals/17/5f/86/175f86f99fb77940d1843908221c3563.gif",
+      career: ["Actress", "Producer", "Director"],
+      birthday: "September 19, 1987",
+      birthPlace: "Augusta, Georgia, USA",
+      genre: ["Comedy", "Drama", "Crime", "Fantasy" ],
+      movies: ["The Flash", "Piranha 2", "Sky High", "Legends of Tomorrow", "Supergirl", "Arrow"],
+      rating: "5.0",
+      ratingStars: "⭐⭐⭐⭐⭐" 
+
+  name: "Faruk Aran",
+      mainImg: "https://avatars.mds.yandex.net/get-kinopoisk-image/10893610/d6607892-f39a-493f-95bd-950f366605a3/280x420",
+      subImg1: "https://iaatv.tmgrup.com.tr/154be0/821/465/11/0/1920/1080?u=https://iatv.tmgrup.com.tr/2023/12/13/alaeddin-bey-saldiridan-kurtuldu-1702494137458.jpg",
+      subImg2: "https://i.pinimg.com/736x/d3/d5/c2/d3d5c2a267c3223691dbb63a6a2e63bc.jpg",
+      subImg3: "https://image.milimaj.com/i/milliyet/75/750x0/65300e6786b24715dc05e67d.jpg",
+      subImg4: "https://i.pinimg.com/originals/10/8b/40/108b40a243b804a2dd629c55b6f196bc.jpg",
+      career: ["Actor"],
+      birthday: "January 01, 1995",
+      birthPlace: "Bornova, Türkiye",
+      genre: ["Action", "History", "Military"],
+      movies: ["Kuruluş Osman", "Destan", "Avci"],
+      rating: "5.0",
+      ratingStars: "⭐⭐⭐⭐⭐"   
+
+
+      name: "Ecem Bayir",
+      mainImg: "https://avatars.mds.yandex.net/get-kinopoisk-image/10893610/2411a78d-a170-411b-96f8-eab1f3fc48c0/280x420",
+      subImg1: "https://icdn.ensonhaber.com/crop/1200x675/resimler/diger/kok/2024/01/24/65b11bb62b9e6990.jpg",
+      subImg2: "https://iaahbr.tmgrup.com.tr/30d022/1200/627/0/16/829/449?u=https://iahbr.tmgrup.com.tr/album/2022/03/08/destanin-gunselisi-ecem-sena-bayirin-sevgilisi-kendisinden-daha-unlu-cikti-1646729557219.jpg",
+      subImg3: "https://i12.haber7.net//haber/haber7/photos/2023/46/gDv6Y_1699950696_8209.jpg",
+      subImg4: "https://i.pinimg.com/originals/b5/6b/5f/b56b5f859a478807761e9fe5152f9d75.gif",
+      career: ["Actress", "Screenwriter"],
+      birthday: "April 11, 1996",
+      birthPlace: "Istanbul, Türkiye",
+      genre: ["Action", "Drama", "Comedy", "History"],
+      movies: ["Kuruluş Osman", "Destan", "Kardeslerim"],
+      rating: "5.0",
+      ratingStars: "⭐⭐⭐⭐⭐"   
+
+
+
+      name: "Berik Aytzhanov",
+      mainImg: "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/602383a8-a771-4034-b86f-3f29032a5e58/280x420",
+      subImg1: "https://ru.qaz365.kz/cache/imagine/1200/uploads/news/2023/02/08/63e362f94aa49015876641.jpeg",
+      subImg2: "https://avatars.dzeninfra.ru/get-zen_doc/9429953/pub_6405f08d875e0f0961f8e33b_6405f110875e0f0961f902fe/scale_1200",
+      subImg3: "https://golos-naroda.kz/cache/imagine/1200/uploads/news/2023/11/07/6549fa577fd3b794307493.png",
+      subImg4: "https://iaatv.tmgrup.com.tr/11ec22/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/album/2023/02/02/naymanin-gelisi-mengu-tengri-kucundur-kurulus-osman-nayman-kimdir-1675325586511.jpg",
+      career: ["Actor"],
+      birthday: "March 11, 1979",
+      birthPlace: "USSR",
+      genre: ["Military", "Drama", "Melodrama", "History"],
+      movies: ["Kuruluş Osman", "Destan", "Ангел-хранитель"],
+      rating: "5.0",
+      ratingStars: "⭐⭐⭐⭐⭐"   
+
+
+       name: "Tom Hiddleston",
+      mainImg: "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/34ece4ec-ae18-4489-a31c-eda0f610d48b/280x420",
+      subImg1: "https://filmsor.hu/wp-content/uploads/2022/06/loki-1068x561.png",
+      subImg2: "https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/03/hiddleston-kong-skull-island-header.jpg",
+      subImg3: "https://sm.ign.com/ign_de/screenshot/default/loki-infinitywar_27up.png",
+      subImg4: "https://64.media.tumblr.com/c934da48d55c337bb57f42f0678c6d84/tumblr_p47e5qQdrE1ra8x1ao2_500.gif",
+      career: ["Actor", "Producer"],
+      birthday: "February 9, 1981",
+      birthPlace: "Westminster, London, England, UK",
+      genre: ["Adventure", "Drama", "Fantasy"],
+      movies: ["Loki", "Avengers: Endgame", "Kong: Skull Island", "Avengers: Infinity War", "The Avengers"],
+      rating: "4.7",
+      ratingStars: "⭐⭐⭐⭐"   
+
+
+      name: "Helena Bonham Carter",
+      mainImg: "https://avatars.mds.yandex.net/get-kinopoisk-image/4303601/ac385e75-434f-4f93-b901-01e68ea00052/280x420",
+      subImg1: "https://media.vogue.co.uk/photos/5d5459e8c877eb00080980fe/16:9/w_1280,c_limit/original",
+      subImg2: "https://static1.srcdn.com/wordpress/wp-content/uploads/2017/01/Bellatrix-Lestrange-Harry-Potter.jpg",
+      subImg3: "https://m.media-amazon.com/images/M/MV5BNDMwMTRjODItYjJjOS00YzNkLTliMzMtOGJjMGU0YzAwMzhjXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg",
+      subImg4: "https://gifdb.com/images/high/pure-blood-witch-bellatrix-lestrange-dd2j8t6j6f9e23aw.gif",
+      career: ["Actress", "Producer", "Director"],
+      birthday: "May 26, 1966",
+      birthPlace: "Golders Green, London, England, UK",
+      genre: ["Comedy", "Drama", "Fantasy", "Melodrama"],
+      movies: ["Charlie and the Chocolate Factory", "Harry Potter and the Half-Blood Prince", "Harry Potter and the Deathly Hallows: Part 1", "Harry Potter and the Deathly Hallows: Part 2", "Cinderella"],
+      rating: "5.0",
+      ratingStars: "⭐⭐⭐⭐⭐"  
+
+
+
+   name: "Ipek Karapinar",
+      mainImg: "https://avatars.mds.yandex.net/get-kinopoisk-image/10809116/bedf60a6-22ba-4b95-b5bd-4b999fcc043c/280x420",
+      subImg1: "https://itkv.tmgrup.com.tr/album/2022/03/01/destanin-colpan-hatunu-ipek-karapinarin-sevgilisi-bakin-kim-cikti-iste-37-yasindaki-guzel-oyuncunun-merak-edil-1646143386228.jpg",
+      subImg2: "https://icdn.ensonhaber.com/crop/1200x0/resimler/diger/kok/2023/03/15/kurulus-osmanin-gozu-kara-friggi-fizigi-ve-duru-guzelligiyle-dudak_1c10e156.jpg",
+      subImg3: "https://iaatv.tmgrup.com.tr/fae93c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/album/2022/10/31/malhun-ve-balanin-ortak-hedefi-1667222995632.jpg",
+      subImg4: "https://iaahbr.tmgrup.com.tr/c8deb8/1200/627/0/161/656/504?u=https://iahbr.tmgrup.com.tr/album/2022/05/24/destanin-colpan-hatunu-ipek-karapinar-herkesi-sasirtti-sevgilisi-bakin-kim-cikti-1653385842730.jpg",
+      career: ["Actress"],
+      birthday: "March 20, 1984",
+      birthPlace: "Istanbul, Türkiye",
+      genre: ["Military", "Drama", "History"],
+      movies: ["Kuruluş Osman", "Destan", "Kırgın Çiçekler"],
+      rating: "5.0",
+      ratingStars: "⭐⭐⭐⭐⭐" 
+
+name: "Taha Baran",
+      mainImg: "https://avatars.mds.yandex.net/get-kinopoisk-image/4486362/730bbba3-e92c-410d-86cb-4e0795001e8f/280x420",
+      subImg1: "https://iatv.tmgrup.com.tr/album/2022/10/25/aktemur-olecek-mi-1666687292133.jpg",
+      subImg2: "https://pbs.twimg.com/media/Fi55MUtX0AQHsDi?format=jpg&name=large",
+      subImg3: "https://foto.haberler.com/haber/2022/02/23/taha-baran-ozbek-kimdir-son-nefesime-kadar-14754138_9459_amp.jpg",
+      subImg4: "https://i.pinimg.com/originals/84/a0/64/84a064baa0739e24b32d854feb30e1b0.gif",
+      career: ["Actor"],
+      birthday: "1998",
+      birthPlace: "Istanbul, Türkiye",
+      genre: ["Action", "Drama", "History"],
+      movies: ["Kuruluş Osman", "Azize", "Akrep"],
+      rating: "5.0",
+      ratingStars: "⭐⭐⭐⭐⭐" 
+
+ 
+  name: "Didem Balçin",
+      mainImg: "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/294f50e0-7075-4280-a087-e431038966e0/280x420",
+      subImg1: "https://img.superhaber.com/storage/files/images/2018/12/12/dirilis-ertugrul-selcan-hatun-kimdi-FK2U.jpg",
+      subImg2: "https://image.milimaj.com/i/milliyet/75/0x0/5fda3fd155428521b0225fe5.jpg",
+      subImg3: "https://m.media-amazon.com/images/M/MV5BMzY0YzVmY2UtYTIxZC00Mjc0LWE5ZGItYWM2MGIxMGI1YjFjXkEyXkFqcGdeQXVyMzI1NjQ3MDM@._V1_.jpg",
+      subImg4: "https://media1.tenor.com/m/YkpR-VsmQokAAAAC/ertugrul-selcan-hatun.gif",
+      career: ["Actress"],
+      birthday: "May 18, 1982",
+      birthPlace: "Ankara, Türkiye",
+      genre: ["Comedy", "Drama", "History"],
+      movies: ["Kuruluş Osman", "Diriliş Ertuğrul", "Ölene Kadar"],
+      rating: "5.0",
+      ratingStars: "⭐⭐⭐⭐⭐"
+
+
+
+      name: "Margot Robbie",
+      mainImg: "https://avatars.mds.yandex.net/get-kinopoisk-image/1898899/8048147e-07dc-4e65-8e0d-c90206e4ed97/280x420",
+      subImg1: "https://cdn.prod.www.spiegel.de/images/259c27e2-0001-0004-0000-000001033148_w960_r1.778_fpx50.4_fpy50.jpg",
+      subImg2: "https://variety.com/wp-content/uploads/2020/04/barbie-margot-robbie.jpeg?w=1000",
+      subImg3: "https://rollingstone.uol.com.br/media/uploads/margot_robbie_em_eu_tonya_foto_divulgacao.jpg",
+      subImg4: "https://64.media.tumblr.com/d9e7c31dc7e4f7a96d6288ad2117b3cb/bbfc3ed65be0ef62-eb/s540x810/dc9862c539f240b076f50857fd48c3df0a7ae96c.gif",
+      career: ["Actress", "Director"],
+      birthday: "July 2, 1990",
+      birthPlace: "Dalby, Queensland, Australia",
+      genre: ["Comedy", "Drama", "Fantasy"],
+      movies: ["The Suicide Squad", "Birds of Prey", "Barbie", "I, Tonya"],
+      rating: "5.0",
+      ratingStars: "⭐⭐⭐⭐⭐"
+
+
+      name: "Olga Kartunkova",
+      mainImg: "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/7258e326-c047-463f-9183-95026afa23d2/280x420",
+      subImg1: "https://i.ytimg.com/vi/CsgMNmTSjZ8/maxresdefault.jpg",
+      subImg2: "https://www.kino-teatr.ru/video/27025/start.jpg",
+      subImg3: "https://i.ytimg.com/vi/7vleMOWgM54/maxresdefault.jpg",
+      subImg4: "https://click-or-die.ru/app/uploads/2023/05/snimok-ekrana-2023-05-05-v-17.00.15.jpg",
+      career: ["Actress"],
+      birthday: "March 4, 1978",
+      birthPlace: "Vinsady, Stavropol Krai, USSR",
+      genre: ["Comedy", "Adventure"],
+      movies: ["Однажды в России", "Сеструха", "Ералаш"],
+      rating: "5.0",
+      ratingStars: "⭐⭐⭐⭐⭐"
+
+
+
+"name": "Rowan Atkinson",
+"genre": [
+"Comedy",
+"Family"
+],
+"career": [
+"Actor",
+"Producer",
+"Director",
+"Screenwriter"
+],
+"movies": [
+"Bean",
+"Mr. Bean",
+"Wonka"
+],
+"rating": "4.8",
+"mainImg": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/599e1b62-1bd5-4792-802b-7d7fef26c8c6/280x420",
+"subImg1": "https://imgl.krone.at/scaled/2311578/v505dcf/full.jpg",
+"subImg2": "https://images.intouch.wunderweib.de/rowan-atkinson-mr-bean,id=da392030,b=intouch,w=1600,rm=sk.jpeg",
+"subImg3": "https://de.web.img2.acsta.net/pictures/23/12/08/11/33/5493928.jpg",
+"subImg4": "https://steamuserimages-a.akamaihd.net/ugc/252590026140921388/95BE5E7A8435FECA57465B2BB3E3D2DBAA529583/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+"birthday": "January 6, 1955",
+"birthPlace": "Consett, Durham, England, UK",
+"ratingStars": "⭐⭐⭐⭐"
+
+
+
+"name": "Deniz Barut",
+"genre": [
+"History",
+"Drama",
+"Action"
+],
+"career": [
+"Actress"
+],
+"movies": [
+"Destan",
+"Kuruluş Osman",
+"Ates Kuslari"
+],
+"rating": "4.9",
+"mainImg": "https://avatars.mds.yandex.net/get-kinopoisk-image/10671298/7d1581a9-7fd7-4577-b6c0-211eb8da6ca8/280x420",
+"subImg1": "https://img.internethaber.com/rcman/Cw1280h720q95gc/storage/files/images/2023/05/24/ismihan-rxDq_cover.jpg",
+"subImg2": "https://foto.haberler.com/haber/2021/12/21/destan-in-ulu-ece-si-deniz-barut-kimdir-ulu-ece-14614846_421_amp.jpg",
+"subImg3": "https://i12.haber7.net//haber/haber7/og_image/2023/48/kurulus_osmanin_basarili_oyuncusu_ates_kuslarinda_yeni_rolu_1701243633_4654.jpg",
+"subImg4": "https://i.pinimg.com/originals/cf/2f/f3/cf2ff31849ddce7c1c4378fb2e197d87.gif",
+"birthday": "March 29, 1983",
+"birthPlace": "Denizli, Türkiye",
+"ratingStars": "⭐⭐⭐⭐"
+
+
+
+     name: "Katie Cassidy",
+      mainImg: "https://avatars.mds.yandex.net/get-kinopoisk-image/4483445/6b6779fc-2361-44a3-bc1f-c6e6a2f62354/280x420",
+      subImg1: "https://www.hollywoodreporter.com/wp-content/uploads/2017/03/fla222a_0072b_copy.jpg?w=1296",
+      subImg2: "https://static1.srcdn.com/wordpress/wp-content/uploads/2022/06/Katie-Cassidy-in-Supernatural.jpeg",
+      subImg3: "https://assets1.ignimgs.com/2018/09/21/arrow-season-7-black-siren-1537566533624_160w.jpg?width=1280",
+      subImg4: "https://i.pinimg.com/originals/7d/f5/39/7df53904cc0c8ab03fe5b6f785035d04.gif",
+      career: ["Actress", "Producer", "Director", "Screenwriter"],
+      birthday: "November 25, 1986",
+      birthPlace: "Los Angeles, California, USA",
+      genre: ["Drama", "Action", "Fantasy"],
+      movies: ["The Flash", "Green Arrow", "Supernatural"],
+      rating: "4.9",
+      ratingStars: "⭐⭐⭐⭐"
+
+
+      name: "Kevin Hart",
+      mainImg: "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/a1b9ea8c-f4b3-43e6-a63a-9048ec0d2ec4/280x420",
+      subImg1: "https://cdn.mos.cms.futurecdn.net/YoS7wVnazSrtaFJp5EJFYL.jpg",
+      subImg2: "https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQYInxcpIC3q55bhTJTseEQw4RiOINtQ7Tmhe9ljYUjykuYqvO9lwNZWEQDnVhXitnMDcwrzJKmqA5_EK3-2ZcvyWV1wZcpQLICOGM75pbqL54RyOjrkjD3XdUXM0YZS6xFK2-smT-ouI2qpR9EwJbW9i.jpg?r=e8f",
+      subImg3: "https://www.hollywoodreporter.com/wp-content/uploads/2022/08/Me-Time-Hart-Wahlberg-Still-Netflix-Publicity-H-2022.jpg?w=1296",
+      subImg4: "https://i0.wp.com/media.giphy.com/media/69EjftQol6uErqVZc7/giphy.gif?resize=480%2C202&ssl=1",
+      career: ["Actor", "Producer", "Director", "Screenwriter"],
+      birthday: "July 6, 1979",
+      birthPlace: "Philadelphia, Pennsylvania, USA",
+      genre: ["Comedy", "Action", "Fantasy"],
+      movies: ["Jumanji", "Night School", "Borderlands"],
+      rating: "4.6",
+      ratingStars: "⭐⭐⭐⭐"

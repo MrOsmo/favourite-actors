@@ -1,0 +1,49 @@
+.footer {
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .content {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      background-color: black;
+      height: 200px;
+      width: 100%;
+      gap: 10px;
+
+      .img_div {
+        display: flex;
+        gap: 25px;
+        img {
+          background-color: rgb(54, 53, 53);
+          border-radius: 100%;
+          padding: 10px;
+          cursor: pointer;
+
+          &:hover {
+            transition: 0.3s;
+            background-color: rgb(94, 93, 93);
+          }
+
+          &:active {
+            background-color: rgb(54, 53, 53);
+          }
+        }
+      }
+
+      p {
+        text-align: center;
+        font-size: clamp(0.7rem, 4vw, 0.9rem); 
+        span {
+          color: green;
+          font-weight: 600;
+        }
+      }
+
+
+    }
+  }
+}
