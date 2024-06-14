@@ -2,13 +2,12 @@ import { useDispatch, useSelector } from "react-redux"
 import scss from "./List.module.scss"
 import { getActors } from "../../../store/actorsSlice"
 import { useEffect } from "react"
-import { RootState } from "@reduxjs/toolkit/query"
 import { Link } from "react-router-dom"
-import { AppDispatch } from "../../../store/store"
+import { AppDispatch, IRootState } from "../../../store/store"
 
 const List = () => {
   const dispatch: AppDispatch = useDispatch()
-  const actors = useSelector((state: RootState) => state.actors.actors);
+  const actors = useSelector((state: IRootState) => state.actors.actors);
 
   useEffect(() => {
     const fetchData = async () => {
