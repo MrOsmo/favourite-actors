@@ -24,14 +24,14 @@ const initialState: ActorsState = {
 }
 
 export const postActors = createAsyncThunk(("postActors/actors"), async (newActors) => {
-  const url = "https://api-v2.elchocrud.pro/api/v1/c3bdae21bdb0e680d54230ba34d73713/actors"
+  const url = "https://api.elchocrud.pro/api/v1/c3bdae21bdb0e680d54230ba34d73713/actors"
   const res = await axios.post(url, newActors)
   return res.data;
 
 })
 
 export const getActors = createAsyncThunk(("getActors/actors"), async () => {
-  const url = "https://api-v2.elchocrud.pro/api/v1/c3bdae21bdb0e680d54230ba34d73713/actors"
+  const url = "https://api.elchocrud.pro/api/v1/c3bdae21bdb0e680d54230ba34d73713/actors"
   const res = await axios.get(url)
   return res.data;
 })
