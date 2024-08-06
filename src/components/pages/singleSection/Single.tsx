@@ -24,7 +24,7 @@ const Single = () => {
   const [actors, setActors] = useState<Actor | null>(null);
 
   useEffect(() => {
-    fetch(`https://api-v2.elchocrud.pro/api/v1/c3bdae21bdb0e680d54230ba34d73713/actors/${id}`)
+    fetch(`https://api.elchocrud.pro/api/v1/c3bdae21bdb0e680d54230ba34d73713/actors/${id}`)
       .then(res => res.json())
       .then(data => setActors(data));
   }, [id]);
